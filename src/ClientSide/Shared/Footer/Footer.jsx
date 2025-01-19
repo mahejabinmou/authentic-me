@@ -17,8 +17,8 @@ const Footer = () => {
                 <div className="footerLogoparent mb-[25px]">
                   {/* <img className="h-full w-full object-cover" src="https://i.ibb.co.com/C5kSmh8/layer-1-1-66f24f9bd9b5b.webp" alt="brand logo" /> */}
                   <img
-                    className="h-full w-full object-cover"
-                    src="/AuthenticBanner.png"
+                    className="h-full w-full object-contain"
+                    src="/Au Zaman.png"
                     alt="brand logo"
                   />
                 </div>
@@ -140,13 +140,13 @@ const Footer = () => {
                     className=" footerMenuText
     "
                   >
-                    abc@abc.com
+                    interior@solution.com
                   </p>
                   <p
                     className=" footerMenuText
     "
                   >
-                    amabhrrd@gmail.com
+                    interiorsolution@gmail.com
                   </p>
                 </div>
               </div>
@@ -162,8 +162,8 @@ const Footer = () => {
                   className="copyWritePara
  "
                 >
-                  Copyright © 2024 Lorem ipsum dolor sit amet consectetur
-                  adipisicing elit.
+                  Copyright © advanceCare 2024. Designed and Developed Ethically
+                  By <span className="font-bold">Mahejabin Mou</span>
                 </p>
               </div>
             </div>
@@ -179,8 +179,8 @@ const Footer = () => {
               <div className="footerLogoparent mb-[25px]">
                 {/* <img className="h-full w-full object-cover" src="https://i.ibb.co.com/C5kSmh8/layer-1-1-66f24f9bd9b5b.webp" alt="brand logo" /> */}
                 <img
-                  className="h-full w-full object-cover"
-                  src="/AuthenticBanner.png"
+                  className="h-full w-full object-contain"
+                  src="/Au Zaman.png"
                   alt="brand logo"
                 />
               </div>
@@ -280,10 +280,10 @@ const Footer = () => {
 
               <div className="md:pb-[10px]">
                 <p className="text-[14px] leading-[21px] footerMenuText    md:pb-[2px]">
-                  abc@abc.com
+                  interior@solution.com
                 </p>
                 <p className="text-[14px] leading-[21px]   footerMenuText">
-                  amabhrrd@gmail.com
+                  interiorsolution@gmail.com
                 </p>
               </div>
             </div>
@@ -295,8 +295,8 @@ const Footer = () => {
           <div className="pt-[25px] bg-[#131212]   px-[30px] 2xl:pt-[30px]  md:px-[50px]  lg:px-[60px] xl:px-[100px] text-center">
             <div className="flex justify-center items-center space-x-[40px]">
               <p className="copyWritePara mb-5 ">
-                Copyright © 2024 Lorem ipsum dolor sit amet consectetur
-                adipisicing elit.
+                Copyright © advanceCare 2024. Designed and Developed By{" "}
+                <span className="font-bold">Mahejabin Mou</span>
               </p>
             </div>
           </div>

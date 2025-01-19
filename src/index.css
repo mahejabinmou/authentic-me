@@ -86,7 +86,7 @@
   }
 
   .footerLogoparent {
-    @apply h-[46px] w-[152px];
+    @apply h-[80px] w-[152px];
   }
 
   .largeScreenMenu {
